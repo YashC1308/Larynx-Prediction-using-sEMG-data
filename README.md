@@ -1,4 +1,7 @@
 # Larynx Function prediction using W-KNN on sEMG data
+View our Research Paper: <a href="https://drive.google.com/file/d/1HYju8tzcTGe9jnGjtw1-htsvdGxbs7Cz/view?usp=drive_link">Click here</a>
+<br>
+<br>
 Key Points:
 <ul>
   <li>The study aimed to analyze surface electromyography (EMG) signals from the larynx of control participants and individuals with total laryngectomy (TL), encompassing four actions: swallowing, coughing, speaking, and random movements.</li>
@@ -24,12 +27,8 @@ Key Points:
 
 Tech Stack:
 <ul>
-<li>Signal Processing Libraries: Libraries for signal processing and wavelet transformation, such as PyWavelets or MATLAB Wavelet Toolbox.</li>
+<li>Signal Processing Libraries: Libraries for signal processing and wavelet transformation (MATLAB Wavelet Toolbox).</li>
 <li>Machine Learning Libraries: Libraries for feature extraction, dimensionality reduction, and classification algorithms, such as scikit-learn and MATLAB Machine Learning Toolbox.</li>
 <li>Data Management and Visualization: Libraries for data handling, preprocessing, and visualization, such as Pandas, NumPy, and Matplotlib.</li>
-<li>Open-Source Dataset: The study utilized an open-source dataset for evaluation, potentially from a public repository or provided by a research institution.</li>
+<li>Open-Source Dataset: The study utilized an open-source IEEE dataset for evaluation, <a href = "https://ieee-dataport.org/open-access/semg-larynx-functions">Click here to view and download dataset</a>.</li>
 </ul>
-
-
-
-To read more about the project here : https://drive.google.com/file/d/1HYju8tzcTGe9jnGjtw1-htsvdGxbs7Cz/view?usp=drive_link
